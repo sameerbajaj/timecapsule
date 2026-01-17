@@ -25,7 +25,7 @@ You tell us where you are in your career. We find leaders from Lenny's Podcast w
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/timecapsule.git
+git clone https://github.com/sameerbajaj/timecapsule.git
 cd timecapsule
 
 # Install dependencies
