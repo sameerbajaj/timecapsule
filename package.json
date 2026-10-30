@@ -1,0 +1,12 @@
+{
+  "name": "timecapsule",
+  "version": "1.0.0",
+  "description": "Lenny's Time Capsule - AI Career Advice from Lenny's Podcast Guests",
+  "homepage": "https://sameerbajaj.com/tools/lennysletter/",
+  "author": "Sameer Bajaj (https://sameerbajaj.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sameerbajaj/timecapsule.git"
+  }
+}

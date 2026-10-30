@@ -107,3 +107,7 @@ MIT — Built with ❤️ for the product community
 ---
 
 **Share your letter:** [@yourusername](https://twitter.com/yourusername)
+
+---
+
+Part of the open-source tools collection by [Sameer Bajaj](https://sameerbajaj.com). Learn more on the [project page](https://sameerbajaj.com/tools/lennysletter/).
